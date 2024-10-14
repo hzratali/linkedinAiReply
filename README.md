@@ -54,6 +54,7 @@ linkedin-ai-reply/
 ├── README.md
 ├── tsconfig.json
 └── wxt.config.ts
+````
 
 ## Getting Started
 
@@ -109,4 +110,3 @@ Make sure you have the following installed on your local machine:
 3. TypeScript - A typed superset of JavaScript that adds static types.
 
 4. Tailwind CSS - A utility-first CSS framework for styling.
-````
